@@ -6,6 +6,6 @@ export default function About() {
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse non id quidem laborum soluta at nulla nisi dicta hic maiores officiis consequatur, illum deserunt numquam quo aperiam recusandae ea ab!</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ratione veniam, odit ipsa culpa adipisci necessitatibus mollitia facere et consequatur eius natus repellat, delectus minus expedita! Quod quam minima repudiandae.
     </p>
-    <PrimaryButton>Contact Us</PrimaryButton>
+    <PrimaryButton>Contact Us (hover me)</PrimaryButton>
   </div>
 }
