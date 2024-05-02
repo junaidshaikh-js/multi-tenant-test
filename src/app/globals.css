@@ -2,3 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
+
+@layer base {
+  html[data-theme="ratecity"] {
+      --brand-primary: #004459;
+      --brand-secondary: #ffaf14;
+      --background: tomato;
+  }
+
+  html[data-theme="canstar"] {
+    --brand-primary: #007580;
+    --brand-secondary: #5db85b;
+    --background: lightpink;
+  }
+}

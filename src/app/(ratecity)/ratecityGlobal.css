@@ -1,8 +1,4 @@
 body {
-  background-color: tomato;
+  background-color: var(--background);
 }
 
-:root {
-  --brand-primary: #004459;
-  --brand-secondary: #ffaf14;
-}
