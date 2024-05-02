@@ -11,7 +11,7 @@
   }
 
   html[data-theme="canstar"] {
-    --brand-primary: #007580;
+    --brand-primary: red;
     --brand-secondary: #5db85b;
     --background: lightpink;
   }
