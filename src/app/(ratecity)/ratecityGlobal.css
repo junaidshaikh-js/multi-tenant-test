@@ -1,0 +1,8 @@
+body {
+  background-color: tomato;
+}
+
+:root {
+  --brand-primary: #004459;
+  --brand-secondary: #ffaf14;
+}
